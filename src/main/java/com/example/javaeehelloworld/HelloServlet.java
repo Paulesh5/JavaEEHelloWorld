@@ -12,11 +12,11 @@ public class HelloServlet extends HttpServlet {
 
     @Inject
     private AdministradorRepository repository;
-
+    @Override
     public void init() {
         message = "Hello World!";
     }
-
+    @Override
     public void doGet(HttpServletRequest request, HttpServletResponse response) throws IOException {
         response.setContentType("text/html");
 
@@ -28,7 +28,7 @@ public class HelloServlet extends HttpServlet {
                         .forEach(administrador -> out.println(String.format("%d - %s<br/>", administrador.getUsuario(), administrador.getPassword())));
         out.println("</body></html>");
     }
-
+    @Override
     public void destroy() {
     }
 }

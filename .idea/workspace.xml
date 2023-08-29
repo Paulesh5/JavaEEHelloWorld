@@ -9,12 +9,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5ec07a8-8a1e-44f5-83ee-6d6ffb21704f" name="Changes" comment="primer">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaeehelloworld/Administrador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaeehelloworld/AdministradorRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/javaeehelloworld/DataSourceProvider.java" afterDir="false" />
+    <list default="true" id="b5ec07a8-8a1e-44f5-83ee-6d6ffb21704f" name="Changes" comment="Deberia funcionar :c">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/example/javaeehelloworld/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/javaeehelloworld/HelloServlet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
@@ -58,9 +54,9 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "reference.settings.project.maven.runner",
     "vue.rearranger.settings.migration": "true"
   }
@@ -146,7 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693262062596</updated>
-      <workItem from="1693262063662" duration="8989000" />
+      <workItem from="1693262063662" duration="9619000" />
     </task>
     <task id="LOCAL-00001" summary="primer">
       <created>1693276341141</created>
@@ -155,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693276341141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Deberia funcionar :c">
+      <created>1693279330321</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693279330321</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -174,6 +177,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="primer" />
-    <option name="LAST_COMMIT_MESSAGE" value="primer" />
+    <MESSAGE value="Deberia funcionar :c" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deberia funcionar :c" />
   </component>
 </project>
